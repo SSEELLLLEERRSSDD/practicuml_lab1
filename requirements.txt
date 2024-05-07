@@ -7,4 +7,4 @@ imblearn
 cvxopt
 tensorflow == 2.14.0
 scipy
-sklearn
+pip install scikit-learn
